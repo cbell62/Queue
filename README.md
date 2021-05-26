@@ -1,4 +1,5 @@
 # Linked Queue Programming Assignment for 2214 (Data Structures and Algorithms)
+- **Term Taken: Spring 2020**
 Write a program that simulates customers waiting in line at a grocery store.  Your program must use a Queue to represent the customer objects waiting in line. 
 
 - The program (driver) should simulate 60 minutes of activity at the store. 
